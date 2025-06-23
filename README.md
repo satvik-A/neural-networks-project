@@ -79,7 +79,7 @@ Includes dependency management files.
 To get started with this repository:
 1. Clone the repo:
    ```bash
-   (https://github.com/satvik-A/neural-networks-project)
+   https://github.com/satvik-A/neural-networks-project
 2. Install required dependencies
    ```bash
    pip install -r requirements.txt
