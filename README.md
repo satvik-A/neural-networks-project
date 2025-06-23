@@ -79,7 +79,7 @@ Includes dependency management files.
 To get started with this repository:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/venusai24/neural-networks.git
+   (https://github.com/satvik-A/neural-networks-project)
 2. Install required dependencies
    ```bash
    pip install -r requirements.txt
